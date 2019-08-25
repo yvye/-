@@ -6,3 +6,4 @@ git rm --cached v.md    //删除v.md文件
 git add *.html  //添加所有html文件
 git add .       //添加所有文件
 git commit      //确认提交到仓库
+:wq             //退出提交注释界面
